@@ -1,0 +1,48 @@
+
+Evaluation for homework 00: Greeter
+   and Java Environment set up
+   and GitHub repository set up/initialization
+============================================
+
+There must be a GitHub repository to which you have invited your humble
+professor to collaborate.  The structure of the repository must be as is
+specified in the assignment, including the name of the repo.  There must
+be a "Greeter.java" source code file in the repository.  You do not need
+to include the "Greeter.class" file unless you want to do so.  It will
+be assumed that you have a working editor of some kind to create your
+code and that it is configured correctly [no "funny" characters].  It will
+also be assumed that you have a working Java installation so that your
+compiler and JVM can execute your code.
+
+============================================================================
+Evaluation:
+============================================================================
+Maximum points: 8 out of 8 = 100% which is an A-plus
+
+Java works        1.00 out of 1.00
+Repo created      2.00 out of 2.00
+Editor works      1.00 out of 1.00
+Greeter runs      2.00 out of 2.00
+Greeter in Repo   2.00 out of 2.00
+
+Your score:
+Total 8 out of 8 = 100% which is an A-plus
+
+
+Explicit comments on the exercise:
+----------------------------------
+I'm not docking you points this time, but your repository is not structured
+correctly.  You have a file called "homework 00" at the same level as your
+"Greeter.java" file.  You need to create a FOLDER called "homework00" [note
+that it does NOT have a space in it] and UNDER that folder is where you will
+put your "Greeter.java" file.  That should be the form for all of the lab
+assignments for the semester.
+
+Also, your repo should be renamed to include your name in some form:
+
+   cmsi-186_Jansky     OR     cmsi-186_Christorpher
+
+....or something like.
+
+Nice work!
+
